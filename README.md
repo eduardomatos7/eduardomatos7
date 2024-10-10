@@ -13,16 +13,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardomatos7&radius=16&theme=gotham&area=true&order=5&line=3CB371&area_color=98FB98&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
- 
-###
-
-###
 
 <h1 align="center">🎯Skills🎯:</h1>
 
