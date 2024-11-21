@@ -1,7 +1,7 @@
 <h2 align="center">Olá 👋!</h2> 
 
 ###
-Meu nome é **Eduardo Matos**, tenho 21 anos e sou estudante do 4º período de ***Sistemas de Informação***. No momento estou melhorando minhas habilidades como **desenvolvedor fullstack** e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades e entregar boas soluções de software. 🚀
+<div align="justify">Meu nome é **Eduardo Matos**, tenho 21 anos e sou estudante do 4º período de ***Sistemas de Informação***. No momento estou melhorando minhas habilidades como **desenvolvedor fullstack** e estou sempre buscando aprender novas tecnologias para aprimorar minhas habilidades e entregar boas soluções de software. 🚀</div>
  
 
 ###
