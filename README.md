@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=eduardomatos7&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
+  <img height=200 src="https://nirzak-streak-stats.vercel.app/?user=eduardomatos7&theme=gotham&hide_border=false" alt="GitHub Streak Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomatos7&theme=gotham&include_all_commits=false&count_private=false&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomatos7&theme=gotham&include_all_commits=false&count_private=false&layout=compact&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 
